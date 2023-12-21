@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CampusApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bookmark">bookmark\n</string>
+    <string name="community">community</string>
+    <string name="event">event</string>
+    <string name="profile">profile</string>
+    <string name="core_team">Core Team Recruitment</string>
+    <string name="core_member">Core Member Recruitment</string>
+    <string name="member">Member Recruitment</string>
+    <string name="nama_orgnisasi">Nama Orgnisasi</string>
+    <string name="available_slot">Available Spot for :</string>
+    <string name="click_for_more_information">Click for more information</string>
+    <string name="waktu">Waktu :</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="syarat">SYARAT PENDAFTARAN</string>
+    <string name="daftar_sekarang">Daftar Sekarang</string>
+    <string name="bio_data">Bio-Data</string>
+    <string name="developer">Zikra fadhlurrahman</string>
+    <string name="dev_email">Zikrafadhlurrahman001@gmail.com</string>
+    <string name="what_s_your_name">What\'s Your Name?</string>
+    <string name="phone_number">Phone Number</string>
+    <string-array name="options">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="gender">Gender?</string>
+    <string name="select_option_hint">Select Gender</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="term">By clicking the Register button, you agree to \nthe public offer</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="your_user_name">Your User Name</string>
+
+</resources>
